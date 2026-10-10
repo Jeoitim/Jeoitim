@@ -1,10 +1,14 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" width="100%" alt="Jeoitim · 语音学、声音与实用工具" />
+
 # 你好，我是 Jeoitim 👋
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=67E8F9&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=45&amp;lines=Phonetics%2C+sound%2C+and+useful+little+tools.;Exploring+how+sounds+are+made." width="760" alt="Phonetics, sound, and useful little tools. Exploring how sounds are made." /></a>
 
 **语音学，以及一些日常用得上的小工具。**
 
-[个人博客](https://www.timhut.qzz.io/)
+[个人博客](https://www.timhut.qzz.io/) · [语音学项目](#语音学项目) · [实用工具](#实用工具)
 
 </div>
 
@@ -39,4 +43,11 @@
 ## 博客与交流
 
 在[个人博客](https://www.timhut.qzz.io/)里记录学习、使用工具和折腾这些项目的过程。如果你也对语音学、笔记整理或音视频工具感兴趣，欢迎交流。
+
+
+<div align="center">
+
+<a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jeoitim&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;text_color=C9D1D9&amp;border_radius=16&amp;card_width=500" width="500" alt="Most Used Languages · Jeoitim 的公开仓库语言分布" /></a>
+
+</div>
 
