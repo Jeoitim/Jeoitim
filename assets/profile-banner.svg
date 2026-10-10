@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Jeoitim — Phonetics and useful little tools</title>
+<desc id="desc">A midnight blue banner with cyan and violet sound waves.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#152039"/></linearGradient>
+<linearGradient id="wave"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".22"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<ellipse cx="965" cy="145" rx="300" ry="200" fill="url(#glow)"/>
+<path d="M64 61H120" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+<text x="64" y="145" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Jeoitim<tspan fill="#67e8f9">.</tspan></text>
+<text x="67" y="192" font-family="Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="2" fill="#b6c4d8">PHONETICS / SOUND / TOOLS</text>
+<path d="M650 150H1125" stroke="#64748b" stroke-opacity=".3"/>
+<g fill="none" stroke="url(#wave)" stroke-width="4" stroke-linecap="round">
+<path d="M650 150 Q670 150 685 144 T715 150 T745 150 Q755 150 765 118 T785 150 T805 150 Q815 150 825 84 T845 150 T865 150 Q875 150 885 48 T905 150 T925 150 Q935 150 945 96 T965 150 T985 150 Q995 150 1005 125 T1025 150 T1045 150 Q1065 150 1080 145 T1125 150"/>
+</g>
+<g fill="#67e8f9"><circle cx="650" cy="150" r="4"/><circle cx="1125" cy="150" r="4"/></g>
+<text x="889" y="261" text-anchor="middle" font-family="Georgia,serif" font-size="24" letter-spacing="12" fill="#a5b4cf">[ s a ʊ n d ]</text>
+</svg>
+
